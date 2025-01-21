@@ -1,0 +1,3 @@
+[submodule "libft"]
+	path = libft
+	url = https://github.com/demm05/libft.git
